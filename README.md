@@ -4,7 +4,7 @@ This is a Rust-based web application built with the Axum framework, featuring a 
 
 ## Features
 - **CRUD Operations**: Create, Read, Update, and Delete Todo items.
-- **Solana Integration**: Includes handlers to read and increment a counter on the Solana blockchain (mocked for now).
+- **Solana Integration**: Includes handlers to read and increment a counter on the Solana blockchain
 - **No Database**: Uses in-memory storage and Solana for state management.
 
 ## Prerequisites
@@ -14,8 +14,3 @@ This is a Rust-based web application built with the Axum framework, featuring a 
 - Fly.io CLI (`flyctl`) for deployment
 - Solana CLI (for blockchain interaction)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   cd hello-world
